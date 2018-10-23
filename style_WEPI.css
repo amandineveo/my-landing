@@ -1,0 +1,35 @@
+
+h1{
+	font-size: 50px;
+	color: black;
+	letter-spacing: 10px
+	}
+h2{
+	color: grey ;
+	font-size: 24px;
+	}
+body{
+	font-family: Calibri;
+	background-color: #FDE3F8; 
+	color : black;
+	}
+.img-circle{
+	border-radius: 50%;
+}
+
+.card-white{
+	background-color: #F6D3E8;
+	padding : 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin:40px 0px;
+}
+.img-circle{
+	border-radius: 50%;
+}
+.btn-pink {
+	background-color: #FE98ED;
+	color:black;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
